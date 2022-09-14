@@ -1,0 +1,39 @@
+<html>
+<head >
+</head>
+<bodyFORM NAME="STUSENT DETAILS" METHOD="POST"><LABEL>
+NAME:</LABEL>
+<input type="text" size="50" >
+<br><BR><LABEL>
+ADDRESS:</LABEL>
+<input type="text" size="50" >
+<br><BR><LABEL>
+E-mail:</LABEL>
+<input type="text" size="50" >
+<br><br>
+liked things:
+<ul>
+<li> <input type="checkbox" name="camp">campus</li>
+<li> <input type="checkbox" name="camp">LOCATION</li>
+<li> <input type="checkbox" name="camp">STUDENT </li>
+<li> <input type="checkbox" name="camp">ATMOSPHERE</li>
+<li> <input type="checkbox" name="camp">DORM ROOM</li>
+<li> <input type="checkbox" name="camp">SPORT</li>
+
+</ul><BR>
+<BR><BR>
+INTERESTED IN UNVERSITY:
+<ul>
+<li> <input type="RADIO" name="ui">friends </li>
+<li> <input type="radio" name="ui">television</li>
+<li> <input type="radio" name="ui">internet</li>
+<li> <input type="radio" name="ui">others</li>
+</ul><BR>
+<BR><BR>
+COMMENT<br>
+<TEXTAREA  height="5" width="50"></textarea>
+<br><BR>
+<button>submit<button>
+</FORM>   
+</body>
+</html>
